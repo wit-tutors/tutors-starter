@@ -4,3 +4,4 @@ youtube        : https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtX
 highlightstyle : railscasts
 courseurl      : https://wit-tutors.github.io/tutors-starter-public/
 credits        : Your Name Here, WIT
+auth           : "true"
