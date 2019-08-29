@@ -4,5 +4,6 @@ youtube   : https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_h
 credits   : Your Name Here, WIT
 ignorepin : 2125
 auth      : 3
+analytics : 1
 ignore    : 
   - topic-05-next
